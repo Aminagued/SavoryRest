@@ -43,7 +43,7 @@ const Menu = () => {
           "8oz grass-fed beef with truffle mashed potatoes and red wine reduction",
         price: "$36",
         image:
-          "https://images.unsplash.com/photo-1546964124-0cce460f38ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+          "https://plus.unsplash.com/premium_photo-1663855532450-54fba8b39844?q=80&w=725&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       },
       {
         name: "Wild Mushroom Risotto",
